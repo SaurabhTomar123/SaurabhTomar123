@@ -14,12 +14,38 @@ I'm a **Software Engineer at Capgemini** with 2+ years of experience building an
 
 Production support has shaped how I build. I write code that's easy to debug, and I think about failure modes before they reach users. Outside work I build full-stack products end to end.
 
-```yaml
-backend:   [Java, Spring Boot, Spring Security, Microservices, REST APIs, Hibernate/JPA]
-frontend:  [React, TypeScript, JavaScript, Tailwind CSS]
-data:      [SQL, MySQL, PostgreSQL, Supabase]
-practices: [Production support, Root-cause analysis, Agile/Scrum, Git]
-```
+## Tech stack
+
+<table>
+  <tr>
+    <td align="center" width="140"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,nodejs,express,nestjs,python,fastapi&theme=light" alt="Java, Spring Boot, Hibernate, Maven, Node.js, Express, NestJS, Python, FastAPI"><br>
+      <sub>Java · Spring Boot · Spring Security · Hibernate/JPA · Maven · Microservices · REST APIs · Node.js · Express · NestJS · Python · FastAPI</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&theme=light" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS"><br>
+      <sub>React · React Native · TypeScript · JavaScript · HTML · CSS · Tailwind CSS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase&theme=light" alt="MySQL, PostgreSQL, MongoDB, Supabase, Firebase"><br>
+      <sub>SQL · MySQL · PostgreSQL · MongoDB · Supabase · Firebase</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vercel&theme=light" alt="Git, GitHub, Vercel"><br>
+      <sub>Git · GitHub · Vercel · Agile/Scrum · Production support · Root-cause analysis</sub>
+    </td>
+  </tr>
+</table>
 
 ## Featured projects
 
